@@ -5,5 +5,7 @@ int main() {
     cout << "Name: Faisal Javed , Roll Number: 24-ST-060" << endl;
     return 0;
 }
+subtraction
+ addition
 int a = 10, b = 5;
 cout << "Addition: " << a + b << endl;
